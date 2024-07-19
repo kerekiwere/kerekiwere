@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**kerekiwere/kerekiwere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a frontend enthusiast based in Belgium. My passion lies in creating beautiful and functional user interfaces using HTML, CSS and JavaScript. Here, you'll find a collection of my projects, experiments and contributions to the web development community.
 
-Here are some ideas to get you started:
+## About Me 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Location:** Belgium 🇧🇪
+- **Field:** Frontend Development
+- **Skills:** HTML, CSS, JavaScript
+- **Interests:** Responsive Design, Web Accessibility, UI/UX Design, Animation
+
+## My Skill Set 💼
+
+- **HTML5:** Crafting semantic and accessible web pages.
+- **CSS3:** Styling with modern techniques like Flexbox, Grid, and CSS Variables.
+- **JavaScript:** Building dynamic and interactive web applications.
+
+## Learning Goals 📚
+
+- **React:** Developing component-based user interfaces.
+- **Next.js:** Building server-side rendered React applications.
+
+## The End 😄
+
+Thanks for visiting my GitHub profile, happy coding! 🚀
+
+<img src="https://raw.githubusercontent.com/kerekiwere/kerekiwere/main/hello.gif" alt="Goodbye GIF" width="300"/>
