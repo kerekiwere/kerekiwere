@@ -9,6 +9,12 @@ Welcome to my GitHub profile! I'm a frontend enthusiast based in Belgium. My pas
 - **Skills:** HTML, CSS, JavaScript
 - **Interests:** Responsive Design, Web Accessibility, UI/UX Design, Animation
 
+## My Journey 🚀
+
+For a long time, I was on and off the development path, stuck in a vicious circle of starting projects and never finishing them. Lately, working on challenges from [Frontend Mentor](https://www.frontendmentor.io) and following a self-learning path has helped me break that habit. These small tasks keep me motivated and help me progress towards my goal of becoming a confident front-end developer.
+
+A special shoutout to [Kevin Powell](https://www.youtube.com/@KevinPowell); thanks to his YouTube videos, I've regained my passion for web development! 🎉
+
 ## My Skill Set 💼
 
 - **HTML5:** Crafting semantic and accessible web pages.
